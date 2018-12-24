@@ -1,0 +1,28 @@
+C:\Users\Dissonance\Desktop\Новая папка\RIAT_LABS\bin\Debug\RIAT_LABS.exe.config
+C:\Users\Dissonance\Desktop\Новая папка\RIAT_LABS\bin\Debug\RIAT_LABS.exe
+C:\Users\Dissonance\Desktop\Новая папка\RIAT_LABS\bin\Debug\RIAT_LABS.pdb
+C:\Users\Dissonance\Desktop\Новая папка\RIAT_LABS\obj\Debug\RIAT_LABS.csprojResolveAssemblyReference.cache
+C:\Users\Dissonance\Desktop\Новая папка\RIAT_LABS\obj\Debug\RIAT_LABS.exe
+C:\Users\Dissonance\Desktop\Новая папка\RIAT_LABS\obj\Debug\RIAT_LABS.pdb
+C:\Users\Dissonance\Desktop\Новая папка\RIAT_LABS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dissonance\Desktop\Новая папка\RIAT_LABS\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\user\Desktop\1\RIAT_LABS\bin\Debug\RIAT_LABS.exe.config
+C:\Users\user\Desktop\1\RIAT_LABS\obj\Debug\RIAT_LABS.exe
+C:\Users\user\Desktop\1\RIAT_LABS\obj\Debug\RIAT_LABS.pdb
+B:\Документы\РИАТ при ППС\lab1\RIAT_LABS\bin\Debug\RIAT_LABS.exe.config
+B:\Документы\РИАТ при ППС\lab1\RIAT_LABS\obj\Debug\RIAT_LABS.exe
+B:\Документы\РИАТ при ППС\lab1\RIAT_LABS\obj\Debug\RIAT_LABS.pdb
+B:\Документы\РИАТ при ППС\lab1\RIAT_LABS\bin\Debug\RIAT_LABS.exe
+B:\Документы\РИАТ при ППС\lab1\RIAT_LABS\bin\Debug\RIAT_LABS.pdb
+B:\Документы\РИАТ при ППС\lab1\RIAT_LABS\bin\Debug\Newtonsoft.Json.dll
+B:\Документы\РИАТ при ППС\lab1\RIAT_LABS\bin\Debug\Newtonsoft.Json.pdb
+B:\Документы\РИАТ при ППС\lab1\RIAT_LABS\obj\Debug\RIAT_LABS.csprojResolveAssemblyReference.cache
+C:\Users\Олга\Desktop\4 КУРС\РИАТ при ППС\Лаба 1\RIAT_LABS\bin\Debug\RIAT_LABS.exe.config
+C:\Users\Олга\Desktop\4 КУРС\РИАТ при ППС\Лаба 1\RIAT_LABS\bin\Debug\RIAT_LABS.exe
+C:\Users\Олга\Desktop\4 КУРС\РИАТ при ППС\Лаба 1\RIAT_LABS\bin\Debug\RIAT_LABS.pdb
+C:\Users\Олга\Desktop\4 КУРС\РИАТ при ППС\Лаба 1\RIAT_LABS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Олга\Desktop\4 КУРС\РИАТ при ППС\Лаба 1\RIAT_LABS\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Олга\Desktop\4 КУРС\РИАТ при ППС\Лаба 1\RIAT_LABS\obj\Debug\RIAT_LABS.csprojResolveAssemblyReference.cache
+C:\Users\Олга\Desktop\4 КУРС\РИАТ при ППС\Лаба 1\RIAT_LABS\obj\Debug\RIAT_LABS.csproj.CoreCompileInputs.cache
+C:\Users\Олга\Desktop\4 КУРС\РИАТ при ППС\Лаба 1\RIAT_LABS\obj\Debug\RIAT_LABS.exe
+C:\Users\Олга\Desktop\4 КУРС\РИАТ при ППС\Лаба 1\RIAT_LABS\obj\Debug\RIAT_LABS.pdb
